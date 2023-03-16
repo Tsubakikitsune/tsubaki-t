@@ -1,2 +1,2 @@
 # tsubaki-t
-[YPM](https://music.hexo.icu)
+[   ](https://music.hexo.icu)
