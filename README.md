@@ -1,1 +1,1 @@
-# tsubaki-t[ ](https://music.hexo.icu).
+# tsubaki-t
