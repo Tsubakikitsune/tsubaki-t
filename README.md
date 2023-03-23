@@ -11,4 +11,4 @@
 
 
 
-[雨林大烟馆](hRttps://music.hexo.icu)
+[雨林大烟馆](https://music.hexo.icu)
